@@ -10,6 +10,8 @@
 /*
   思路：
   定义两个数据结构list；从最低位开始遍历想加，注意进位和结束判断。
+  
+  构造数据结构是至关重要的，只要数据结构确定，代码的逻辑变数其实不大。
 */
 // Source : https://oj.leetcode.com/problems/add-two-numbers/
 // Author : Hao Chen
